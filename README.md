@@ -1,2 +1,2 @@
-# 1.1recipe-html
+# recipe-html
 A project to show the use of Order and Unorder List  
